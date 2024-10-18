@@ -7,8 +7,6 @@ I’m passionate about learning web development, especially the MERN stack. I ha
 - **JavaScript**
 - **React** ( Learning )
 - **MongoDB**
-- **Node.js** (add this if applicable)
-- **Express** (add this if applicable)
 
 ### 🚀 Projects
 - **Project 1**: [Link to Project 1](#) - Brief description of Project 1.
