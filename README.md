@@ -1,7 +1,7 @@
 # Hi there, I'm Amir 👋
 
 ### About Me
-I’m passionate about learning web development, especially the MERN stack. I have started my journey by diving into React and have completed several projects using JavaScript and MongoDB.
+I'm a passionate web developer focusing on the MERN stack. My journey started with React, and I'm excited to expand my skills in building dynamic web applications. I have completed several projects using JavaScript and MongoDB, and I'm eager to take on new challenges.
 
 ### 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD43B?style=flat-square&logo=javascript&logoColor=black)
@@ -13,12 +13,12 @@ I’m passionate about learning web development, especially the MERN stack. I ha
 - **Project 2**: [Link to Project 2](#) - Brief description of Project 2.
 - **Project 3**: [Link to Project 3](#) - Brief description of Project 3.
 
-### 🌱 I'm currently learning
-- **MERN Stack**
+### 🌱 I'm Currently Learning
+- **MERN Stack** (Continuing to learn and practice)
 
-### 📫 How to reach me
-- [LinkedIn](#)
-- [Discord](#)
-- [Telegram](#)
+### 📫 How to Reach Me
+- [LinkedIn](#) - Connect with me on LinkedIn
+- [Discord](#) - Join me on Discord
+- [Telegram](#) - Reach out via Telegram
 
 Feel free to check out my projects and connect with me!
