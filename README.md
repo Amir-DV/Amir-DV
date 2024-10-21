@@ -18,7 +18,7 @@ I'm a passionate web developer focusing on the MERN stack. My journey started wi
 
 ### 📫 How to Reach Me
 - [LinkedIn](#) - Connect with me on LinkedIn
-- [Discord](#) - Join me on Discord
-- [Telegram](#) - Reach out via Telegram
+- [Discord](https://discordapp.com/users/856956452740792320) - Join me on Discord
+- [Telegram](https://t.me/theamirdv) - Reach out via Telegram
 
 Feel free to check out my projects and connect with me!
