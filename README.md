@@ -11,7 +11,7 @@
 - [License](#license)
 
 ### About Me
-I'm a passionate web developer focusing on the MERN stack...
+I'm a passionate web developer focusing on the MERN stack. My journey started with React, and I'm excited to expand my skills in building dynamic web applications. I have completed several projects using JavaScript and MongoDB, and I'm eager to take on new challenges.
 
 ### 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD43B?style=flat-square&logo=javascript&logoColor=black)
@@ -32,7 +32,5 @@ I'm a passionate web developer focusing on the MERN stack...
 - [Discord](https://discordapp.com/users/856956452740792320) - Join me on Discord
 - [Telegram](https://t.me/theamirdv) - Reach out via Telegram
 
-### 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
