@@ -1,7 +1,17 @@
 # Hi there, I'm Amir 👋
 
+![Cover Image](https://example.com/your-cover-image.png)
+
+## 📚 Table of Contents
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Currently Learning](#currently-learning)
+- [How to Reach Me](#how-to-reach-me)
+- [License](#license)
+
 ### About Me
-I'm a passionate web developer focusing on the MERN stack. My journey started with React, and I'm excited to expand my skills in building dynamic web applications. I have completed several projects using JavaScript and MongoDB, and I'm eager to take on new challenges.
+I'm a passionate web developer focusing on the MERN stack...
 
 ### 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD43B?style=flat-square&logo=javascript&logoColor=black)
@@ -10,9 +20,9 @@ I'm a passionate web developer focusing on the MERN stack. My journey started wi
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 
 ### 🚀 Projects
-- **[Walmane](https://github.com/Amir-DV/Walmane)**: A community management bot for Discord, designed specifically for the World of Warcraft GDKP raid system. It facilitates organization and interaction among players, making raid management easier.
-- **[Venus](https://github.com/Amir-DV/Venus)**: A music-playing Discord bot that streams music from various sources, such as Spotify and YouTube, with a user-friendly interface for easy access.
-- **[Nia](https://github.com/Amir-DV/Nia)**: A Discord bot that enhances community management through various functions, including user role management, feedback systems, and verification processes.
+- **[Walmane](https://github.com/Amir-DV/Walmane)**: A community management bot for Discord, designed specifically for the World of Warcraft GDKP raid system...
+- **[Venus](https://github.com/Amir-DV/Venus)**: A music-playing Discord bot that streams music from various sources...
+- **[Nia](https://github.com/Amir-DV/Nia)**: A Discord bot that enhances community management through various functions...
 
 ### 🌱 I'm Currently Learning
 - **MERN Stack** (Continuing to learn and practice)
@@ -22,4 +32,7 @@ I'm a passionate web developer focusing on the MERN stack. My journey started wi
 - [Discord](https://discordapp.com/users/856956452740792320) - Join me on Discord
 - [Telegram](https://t.me/theamirdv) - Reach out via Telegram
 
-Feel free to check out my projects and connect with me!
+### 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+> "Code is like humor. When you have to explain it, it’s bad." - Cory House
