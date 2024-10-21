@@ -3,7 +3,7 @@
 ![Cover Image](https://example.com/your-cover-image.png)
 
 ## 📚 Table of Contents
-- [About Me](#about-me)
+- [About Me](#about-me-)
 - [Skills](#skills)
 - [Projects](#projects)
 - [Currently Learning](#currently-learning)
