@@ -4,7 +4,7 @@
 
 ## 📚 Table of Contents
 - [About Me](#about-me-)
-- [Skills](#skills-)
+- [Skills](#skills-%EF%B8%8F)
 - [Projects](#projects-)
 - [Currently Learning](#currently-learning-)
 - [How to Reach Me](#how-to-reach-me-)
