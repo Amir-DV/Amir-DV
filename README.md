@@ -25,7 +25,7 @@ I'm a passionate web developer focusing on the MERN stack. My journey started wi
 - **MERN Stack** (Continuing to learn and practice)
 
 ### How to Reach Me 📫
-- [LinkedIn](www.linkedin.com/in/amirshamlou) - Connect with me on LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/amirshamlou/) - Connect with me on LinkedIn
 - [Discord](https://discordapp.com/users/856956452740792320) - Join me on Discord
 - [Telegram](https://t.me/theamirdv) - Reach out via Telegram
 
