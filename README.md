@@ -17,9 +17,9 @@ I'm a passionate web developer focusing on the MERN stack. My journey started wi
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 
 ### Projects 🚀
-- **[Walmane](https://github.com/Amir-DV/Walmane)**: A community management bot for Discord, designed specifically for the World of Warcraft GDKP raid system...
-- **[Venus](https://github.com/Amir-DV/Venus)**: A music-playing Discord bot that streams music from various sources...
-- **[Nia](https://github.com/Amir-DV/Nia)**: A Discord bot that enhances community management through various functions...
+- **[Walmane](https://github.com/Amir-DV/Walmane)**: A community management bot for Discord, designed specifically for the World of Warcraft GDKP raid system. It facilitates organization and interaction among players, making raid management easier.
+- **[Venus](https://github.com/Amir-DV/Venus)**: A music-playing Discord bot that streams music from various sources, such as Spotify and YouTube, with a user-friendly interface for easy access.
+- **[Nia](https://github.com/Amir-DV/Nia)**: A Discord bot that enhances community management through various functions, including user role management, feedback systems, and verification processes.
 
 ### Currently Learning 🌱
 - **MERN Stack** (Continuing to learn and practice)
