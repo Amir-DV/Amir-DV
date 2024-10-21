@@ -10,7 +10,7 @@
 - [How to Reach Me](#how-to-reach-me)
 - [License](#license)
 
-### About Me
+### About Me 👨‍💻
 I'm a passionate web developer focusing on the MERN stack. My journey started with React, and I'm excited to expand my skills in building dynamic web applications. I have completed several projects using JavaScript and MongoDB, and I'm eager to take on new challenges.
 
 ### 🛠️ Skills
@@ -31,6 +31,5 @@ I'm a passionate web developer focusing on the MERN stack. My journey started wi
 - [LinkedIn](#) - Connect with me on LinkedIn
 - [Discord](https://discordapp.com/users/856956452740792320) - Join me on Discord
 - [Telegram](https://t.me/theamirdv) - Reach out via Telegram
-
 
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
