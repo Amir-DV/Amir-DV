@@ -1,7 +1,5 @@
 # Hi there, I'm Amir 👋
 
-![Cover Image](https://example.com/your-cover-image.png)
-
 ## 📚 Table of Contents
 - [About Me](#about-me-)
 - [Skills](#skills-%EF%B8%8F)
